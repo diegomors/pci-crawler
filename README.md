@@ -1,2 +1,2 @@
-# pci-crawler
-Crawler to download the PCI Concursos exams
+# pci-scraper
+Scraper to download the PCI Concursos exams
